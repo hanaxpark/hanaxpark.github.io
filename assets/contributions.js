@@ -1,0 +1,1 @@
+window.HANA_CONTRIBUTIONS = [{"date": "2026-08-19", "count": 1}, {"date": "2026-08-21", "count": 1}, {"date": "2026-08-23", "count": 1}, {"date": "2026-08-25", "count": 3}];
